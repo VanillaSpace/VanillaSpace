@@ -3,7 +3,7 @@
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"><br><br>
 
-- 🔭 I’m currently working as a Project Coordinator (Video Game Design)
+- 🔭 I’m currently working as a Project Coordinator
 - 👯 Working together with our exclusive partner Ubisoft
 - 💬 Ask me about anything via my email
 - 📫 Reach me @ vspace010101@gmail.com

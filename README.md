@@ -18,6 +18,6 @@
 </p>
 
 <h3 align="left">Status :</h3>
-<p><img img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaSpace&layout=compact"/></p>
+<p><img img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaSpace&layout=compact"/></p>
 <p><img img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=VanillaSpace&show_icons=true&locale=en"/></p>
 

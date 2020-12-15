@@ -20,5 +20,5 @@
 
 <h3 align="left">Status :</h3>
 <p><img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaSpace&layout=compact"  /></p>
-<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=VanillaSpace&show_icons=true&locale=en"  /></p>
+<p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=VanillaSpace&show_icons=true&locale=en"  /></p>
 

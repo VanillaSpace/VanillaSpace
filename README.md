@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a Project Coordinator (Video Game Design)
 - 👯 Working together with our exclusive partner Ubisoft
 - 💬 Ask me about anything via my email
-- 📫 How to reach me: vspace010101@gmail.com
+- 📫 Reach me @ vspace010101@gmail.com
 - ⚡ Fun fact: I love playing video games
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)

@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/arisaOhashi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
+<a href="www.linkedin.com/in/arisaohashi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+
 
 <h3 align="left">Status :</h3>
 <p><img img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaSpace&layout=compact"/></p>

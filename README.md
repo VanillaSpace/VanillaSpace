@@ -1,13 +1,17 @@
 <h2 align="center">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
-<h3 align="center">I'm Arisa Ohashi</h3> 
+<h3 align="center">I'm Arisa Ohashi <br> <br>
+<a href="https://pyrexxvii.wixsite.com/arisao" align="center"> MY PORTFOLIO PAGE</a> </h3> 
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"><br><br>
+
 
 - 🔭 I’m currently working as a Project Coordinator
 - 👯 Working together with our exclusive partner Ubisoft
 - 💬 Ask me about anything via my email
 - 📫 Reach me @ vspace010101@gmail.com
 - ⚡ Fun fact: I love playing video games
+
+
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -23,5 +27,4 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p><img img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaSpace&layout=compact"/></p>
-<p><img img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=VanillaSpace&show_icons=true&locale=en"/></p>
-
+<p><img img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=VanillaSpace&show_icons=true&locale=en"/></p><br>

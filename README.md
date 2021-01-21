@@ -4,7 +4,7 @@
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"><br><br>
 
-- 🎮 Check out <a href="https://www.arisao.com" align="center"> MY PORTFOLIO</a>
+- 🎮 Check out <a href="https://www.arisao.com"> MY PORTFOLIO</a>
 - 🔭 I’m currently working as a Project Coordinator
 - 👯 Working together with our exclusive partner Ubisoft
 - 💬 Wanna work together in a game jam? 

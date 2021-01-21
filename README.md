@@ -1,6 +1,6 @@
 <h2 align="center">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 <h3 align="center">I'm Arisa Ohashi <br> <br>
-<a href="https://pyrexxvii.wixsite.com/arisao" align="center"> MY PORTFOLIO PAGE</a> </h3> 
+<a href="https://www.arisao.com" align="center"> Check out MY PORTFOLIO</a> </h3> 
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"><br><br>
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a Project Coordinator
 - 👯 Working together with our exclusive partner Ubisoft
 - 💬 Ask me about anything via my email
-- 📫 Reach me @ vspace010101@gmail.com
+- 📫 Contact me <a href="https://www.arisao.com/contact" align="center">HERE</a>
 - ⚡ Fun fact: I love playing video games
 
 

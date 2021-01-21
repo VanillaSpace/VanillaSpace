@@ -1,10 +1,10 @@
 <h2 align="center">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
-<h3 align="center">I'm Arisa Ohashi <br> <br>
+<h3 align="center">I'm Arisa Ohashi </h3> <br> <br>
 
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"><br><br>
 
-- 🎮 Check out <a href="https://www.arisao.com"> MY PORTFOLIO</a>
+- 🎮 Check out <a href="https://www.arisao.com">MY PORTFOLIO</a>
 - 🔭 I’m currently working as a Project Coordinator
 - 👯 Working together with our exclusive partner Ubisoft
 - 💬 Wanna work together in a game jam? 

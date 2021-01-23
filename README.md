@@ -6,7 +6,7 @@
 - 🎮 Check out <a href="https://www.arisao.com">MY PORTFOLIO</a>
 - 🔭 I’m currently working as a Project Coordinator
 - 👯 Working together with our exclusive partner Ubisoft
-- 💬 Wanna work together in a game jam? 
+- 💬 Wanna work together on a game jam? 
 - 📫 Contact me <a href="https://www.arisao.com/contact" align="center">HERE</a>
 - ⚡ Fun fact: I love playing Ana in Overwatch
 

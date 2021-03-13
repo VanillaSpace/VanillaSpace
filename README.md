@@ -3,8 +3,7 @@
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"><br>
 
 - 🎮 Check out <a href="https://www.arisao.com">MY PORTFOLIO</a>
-- 🔭 I’m currently working as a Project Coordinator
-- 👯 Working together with our exclusive partner Ubisoft
+- 🔭 I’m currently working as a Gameplay Programmer Intern & Game Design Project Coordinator
 - 💬 Wanna work together on a game jam? 
 - 📫 Contact me <a href="https://www.arisao.com/contact" align="center">HERE</a>
 - ⚡ Fun fact: I love playing Ana in Overwatch

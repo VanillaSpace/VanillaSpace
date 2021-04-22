@@ -1,7 +1,7 @@
 <h2 align="center">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
 
-- 🎮 Check out <a href="https://www.arisao.com">MY PORTFOLIO</a>
+- 🎮 Check out <a href="https://vanillaspace.itch.io">MY PORTFOLIO</a>
 - 🔭 I’m currently working as a Gameplay Programmer Intern & Game Design Project Coordinator
 - 💬 Wanna work together on a game jam? 
 - 📫 Contact me <a href="https://www.arisao.com/contact" align="center">HERE</a>

@@ -2,7 +2,7 @@
 
 
 - 🎮 Check out <a href="https://vanillaspace.itch.io">MY PORTFOLIO</a>
-- 🔭 I’m currently working as a Gameplay Programmer Intern & Game Design Project Coordinator
+- 🔭 I’m currently working as a Junior Software Engineer & Game Design Project Coordinator
 - 💬 Wanna work together on a game jam? 
 - 📫 Contact me <a href="https://www.arisao.com/contact" align="center">HERE</a>
 - ⚡ Fun fact: I love playing Ana in Overwatch

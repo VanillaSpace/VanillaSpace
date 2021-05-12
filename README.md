@@ -3,11 +3,8 @@
 <a href="https://gifyu.com/image/5fiE"><img src="https://s3.gifyu.com/images/Pink-and-Peach-Health-LinkedIn-Banner-2.gif" alt="Pink-and-Peach-Health-LinkedIn-Banner-2.gif" border="0" /></a>
 
 - 🎮 Check out <a href="https://vanillaspace.itch.io">MY PORTFOLIO</a>
-- 🔭 I’m currently working as a Junior Software Engineer & Game Design Project Coordinator
 - 💬 Wanna work together on a game jam? 
 - 📫 Contact me <a href="https://www.arisao.com/contact" align="center">HERE</a>
-- ⚡ Fun fact: I love playing Ana in Overwatch
-
 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)

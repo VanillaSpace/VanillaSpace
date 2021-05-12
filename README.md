@@ -1,5 +1,6 @@
 <h2 align="center">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
+<a href="https://gifyu.com/image/5fiE"><img src="https://s3.gifyu.com/images/Pink-and-Peach-Health-LinkedIn-Banner-2.gif" alt="Pink-and-Peach-Health-LinkedIn-Banner-2.gif" border="0" /></a>
 
 - 🎮 Check out <a href="https://vanillaspace.itch.io">MY PORTFOLIO</a>
 - 🔭 I’m currently working as a Junior Software Engineer & Game Design Project Coordinator

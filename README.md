@@ -1,23 +1,10 @@
-<h2 align="center">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
+<h2 align="center">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://gifyu.com/image/5fiE"><img src="https://s3.gifyu.com/images/Pink-and-Peach-Health-LinkedIn-Banner-2.gif" alt="Pink-and-Peach-Health-LinkedIn-Banner-2.gif" border="0" /></a>
 
-- 🎮 Check out <a href="https://vanillaspace.itch.io">MY PORTFOLIO</a>
-- 💬 Wanna work together on a game jam? 
-- 📫 Contact me <a href="https://www.arisao.com/contact" align="center">HERE</a>
-
+![Metrics](https://metrics.lecoq.io/VanillaSpace?template=classic&isocalendar=1&languages=1&pagespeed=1&tweets=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FToronto)
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/arisaohashi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-
-<h3 align="left">Current Status :</h3>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<p><img img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaSpace&layout=compact"/></p>
-<p><img img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=VanillaSpace&show_icons=true&locale=en"/></p><br>
+</h2>
